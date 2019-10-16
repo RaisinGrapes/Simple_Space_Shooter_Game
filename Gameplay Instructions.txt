@@ -1,0 +1,8 @@
+Movement:
+'A' - move to the left of screen
+'D' - move to the right of screen
+'W' - move to the top of screen
+'S' - move to the bottom of screen
+
+Combat:
+'Space' - shoot
